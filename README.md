@@ -2,6 +2,8 @@
 
 Ce projet, réalisé en collaboration avec Ulrich Karl ODJO dans le cadre de l'unité d'enseignement "Étude de cas, statistiques appliquées" en L3 MIASHS, vise à développer un modèle de prédiction de la date de maturation du cépage Merlot en fonction de variables climatiques et environnementales.
 
+> Pour une lecture simplifiée du projet, une version PDF du rapport est disponible dans le dépôt GitHub.
+
 ### Contexte
 
 Les viticulteurs de Bordeaux ont étudié les conditions de développement et de maturation de leurs différents cépages en fonction des sols de leur terre, afin d'optimiser leurs cultures. Le Merlot est un cépage rouge qui représente plus de 65% de la surface plantée dans les terroirs bordelais. Il est à maturation lente, estimée à deux semaines et demie après le Chasselas. Les sols les plus adaptés à une maturation lente sont les sols argilo-calcaires frais. Cependant, les viticulteurs ont constaté que la date de maturation du Merlot peut varier considérablement d'une année à l'autre, ce qui complique la logistique et la qualité du vin.
@@ -31,5 +33,3 @@ Le rapport présente les résultats de l'analyse, y compris les coefficients de 
 ### Conclusion
 
 Le projet a permis de construire un modèle de prédiction de la date de maturation du Merlot en fonction de variables climatiques et environnementales. Ce modèle peut aider les viticulteurs à planifier leur logistique et à optimiser la qualité de leur vin. Cependant, le modèle ne prend pas en compte les changements climatiques et les différents types de pollution, qui peuvent impacter le Merlot. Par conséquent, des mises à jour régulières du modèle seront nécessaires pour garantir sa pertinence dans le temps.
-
-> Pour une lecture simplifiée du projet, une version PDF du rapport est disponible dans le dépôt GitHub.
