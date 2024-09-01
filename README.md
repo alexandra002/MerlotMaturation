@@ -1,4 +1,4 @@
-# Prédiction de la Date de Maturation du Merlot
+# Prédiction de la date de maturation du Merlot
 
 Ce projet, réalisé en collaboration avec Ulrich Karl ODJO dans le cadre de l'unité d'enseignement "Étude de cas, statistiques appliquées" en L3 MIASHS, vise à développer un modèle de prédiction de la date de maturation du cépage Merlot en fonction de variables climatiques et environnementales.
 
