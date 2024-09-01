@@ -28,7 +28,7 @@ Le rapport décrit en détail les différentes étapes du projet, notamment :
 
 ### Résultats
 
-Le rapport présente les résultats de l'analyse, y compris les coefficients de corrélation, les résultats de régression et les prévisions de dates de maturation pour les années 2001 à 2007. Le modèle final choisi est un modèle de régression linéaire multiple qui prend en compte les variables NbJrs30JJ, NbJ25_30JJ, NbJ20_25JJ et SommeRayonnementJJ.
+Le rapport présente les résultats de l'analyse, y compris les coefficients de corrélation, les résultats de régression et les prévisions de dates de maturation pour les années 2001 à 2007. Le modèle final choisi est un modèle de régression linéaire multiple qui prend en compte les variables `NbJrs30JJ`, `NbJ25_30JJ`, `NbJ20_25JJ` et `SommeRayonnementJJ`.
 
 ### Conclusion
 
